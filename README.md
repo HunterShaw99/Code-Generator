@@ -1,7 +1,11 @@
 # Code-Generator
 Generates employee codes based on: last name, Date of Birth, Department.
 
-# What I learned
+##### Tools Used
+* Visual Studio
+* VisualBasic
+
+##### What I learned
 - ByRef usage
 - Functions
 - Select Case
